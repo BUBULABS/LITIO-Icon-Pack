@@ -1,0 +1,13 @@
+{
+  "latestVersion": "1.0",
+  "latestVersionCode": 1,
+  "disableRequest": {
+    "below": 0,
+    "on": ""
+  },
+  "url": "https://github.com/BUBULABS/JUGO-Icon-Pack",
+  "releaseNotes": [
+    "Initial Release!!",
+ 
+  ]
+}
